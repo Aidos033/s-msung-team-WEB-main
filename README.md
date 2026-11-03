@@ -78,5 +78,4 @@ Open `index.html` in a browser with internet access so the CDN-hosted jQuery and
 ## Team
 Aidos, Arnur, Mukhammajon.
 
-## Deploy
-https://axxelium.github.io/s-msung-team-WEB/
+
